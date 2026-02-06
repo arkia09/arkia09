@@ -1,6 +1,10 @@
-## Hi there 👋
-
+## Hi there! I am Simran Kaur.
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=arkia09)
+
+Learning data science.
+Exploring backend development and open source
+
+> First make it work. Then make it right. Then make it fast.
 
 <!--
 **arkia09/arkia09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
