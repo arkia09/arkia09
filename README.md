@@ -17,8 +17,6 @@ I work on backend systems and am currently moving towards machine learning, with
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=arkia09\&hide_border=true)
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=arkia09&show_icons=true&hide_border=true)
-
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=arkia09\&hide_border=true)
 
 
