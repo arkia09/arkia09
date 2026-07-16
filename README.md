@@ -70,5 +70,5 @@ Tools
 
 ## 🧮 Github Stats
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=arkia09&show_icons=true&theme=tokyonight&hide_border=true" />
+   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=arkia09&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
