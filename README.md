@@ -1,36 +1,74 @@
-## Hi there! I am Simran Kaur.
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=arkia09)
+<div align="center">
 
-I work on backend systems and am currently moving towards machine learning, with a focus on building strong fundamentals through open source.
+# Simran Kaur (arkia09)
 
-### Currently:
+![Profile views](https://komarev.com/ghpvc/?username=arkia09&label=Profile%20views&color=0e75b6&style=flat)
 
-* Contributor at Oppia (open source)
-* Working with Django, REST APIs, NumPy, Pandas
+Software Developer | Open Source Contributor @ Oppia
 
-### Focus:
+</div>
 
-* Machine learning fundamentals (data handling, modeling basics)
-* Writing clean, testable backend code
+```bash
+> whoami
+Simran Kaur — Software developer currently learning by building things in open source.
+Working closely with Oppia's codebase and gradually getting better at backend systems.
+
+> about
+- Active open source contributor at Oppia
+- Currently serving as Co-Lead (LEAP Team)
+- Interested in backend systems, ML, and some hardware exploration
+- Prefer hands-on learning over theory-heavy approaches
+
+
+> tech_stack
+Python | Django | JavaScript | TypeScript | HTML | CSS | Tailwind | Git | GitHub | NumPy
+
+> contributions
+- Contributor & Member @ Oppia Foundation
+- Co-Lead — Lesson Player development
+- Working across frontend + backend + migrations
+
+> goals_2026
+- Get strong in core CS fundamentals
+- Build solid backend/system design skills
+- Ship meaningful real-world projects
+- Stay consistent in open source
+
+> exit
+logout
+```
 
 ---
 
-![GitHub Streak](https://streak-stats.demolab.com?user=arkia09\&hide_border=true)
+## 🧰 Technical Skills
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=arkia09\&hide_border=true)
+<div align="center">
 
+Languages
 
-<!--
-**arkia09/arkia09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://go-skill-icons.vercel.app/api/icons?i=python,js,ts" />
 
-Here are some ideas to get you started:
+Backend & Libraries
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://go-skill-icons.vercel.app/api/icons?i=django,numpy,matplotlib" />
+
+Frontend
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,tailwind" />
+
+Tools
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=git,github" />
+
+</div>
+
+---
+
+## 🤝 Connect with me
+
+<p align="center"> <a href="https://www.linkedin.com/in/simran-kaur-os/" target="blank"> <img src="https://skillicons.dev/icons?i=linkedin" height="40" /> </a> <a href="https://medium.com/@arkia09" target="blank"> <img src="https://go-skill-icons.vercel.app/api/icons?i=medium" height="40" /> </a> <a href="https://bsky.app/profile/sxraphix.bsky.social" target="blank"> <img src="https://go-skill-icons.vercel.app/api/icons?i=bluesky" height="40" /> </a> <a href="https://github.com/arkia09" target="blank"> <img src="https://skillicons.dev/icons?i=github" height="40" /> </a> <a href="simrankaur47937@gmail.com" target="blank"> <img src="https://skillicons.dev/icons?i=gmail" height="40" /> </a> </p>
+
+## 🧮 Github Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arkia09&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
