@@ -11,7 +11,7 @@ Software Developer | Open Source Contributor @ Oppia
 ```bash
 > whoami
 Simran Kaur — Software developer currently learning by building things in open source.
-Working closely with Oppia's codebase and gradually getting better at backend systems.
+Working closely with Oppia codebase and gradually getting better at backend systems.
 
 > about
 - Active open source contributor at Oppia
@@ -66,7 +66,7 @@ Tools
 
 ## 🤝 Connect with me
 
-<p align="center"> <a href="https://www.linkedin.com/in/simran-kaur-os/" target="blank"> <img src="https://skillicons.dev/icons?i=linkedin" height="40" /> </a> <a href="https://medium.com/@arkia09" target="blank"> <img src="https://go-skill-icons.vercel.app/api/icons?i=medium" height="40" /> </a> <a href="https://bsky.app/profile/sxraphix.bsky.social" target="blank"> <img src="https://go-skill-icons.vercel.app/api/icons?i=bluesky" height="40" /> </a> <a href="https://github.com/arkia09" target="blank"> <img src="https://skillicons.dev/icons?i=github" height="40" /> </a> <a href="simrankaur47937@gmail.com" target="blank"> <img src="https://skillicons.dev/icons?i=gmail" height="40" /> </a> </p>
+<p align="center"> <a href="https://www.linkedin.com/in/simran-kaur-os/" target="blank"> <img src="https://skillicons.dev/icons?i=linkedin" height="40" /> </a> <a href="https://medium.com/@arkia09" target="blank"> <img src="https://go-skill-icons.vercel.app/api/icons?i=medium" height="40" /> </a> <a href="https://bsky.app/profile/sxraphix.bsky.social" target="blank"> <img src="https://go-skill-icons.vercel.app/api/icons?i=bluesky" height="40" /> </a> <a href="simrankaur47937@gmail.com" target="blank"> <img src="https://skillicons.dev/icons?i=gmail" height="40" /> </a> </p>
 
 ## 🧮 Github Stats
 <p align="center">
