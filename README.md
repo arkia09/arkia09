@@ -25,7 +25,6 @@ Python | Django | JavaScript | TypeScript | HTML | CSS | Tailwind | Git | GitHub
 
 > contributions
 - Contributor & Member @ Oppia Foundation
-- Co-Lead — Lesson Player development
 - Working across frontend + backend + migrations
 
 > goals_2026
