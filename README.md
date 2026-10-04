@@ -21,6 +21,6 @@ Django, Node.js, NumPy, Matplotlib
 Git, GitHub
 
 ## Links
-Linkedin: https://www.linkedin.com/in/simran-kaur-os/
-Medium: https://medium.com/@arkia09
-G-Mail: simrankaur47937@gmail.com
+- Linkedin: https://www.linkedin.com/in/simran-kaur-os/
+- Medium: https://medium.com/@arkia09
+- G-Mail: simrankaur47937@gmail.com
